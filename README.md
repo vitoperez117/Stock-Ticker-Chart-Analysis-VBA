@@ -1,4 +1,4 @@
-# VBA-Challenge
+# Stock-Ticker-Chart-Analysis-VBA
 Week 2 VBA Homework
     
 ## This repository includes 
