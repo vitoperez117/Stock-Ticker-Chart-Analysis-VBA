@@ -1,5 +1,4 @@
 # Stock-Ticker-Chart-Analysis-VBA
-Week 2 VBA Homework
     
 ## This repository includes 
 * a Text Edit file that contains the VBA script and,
